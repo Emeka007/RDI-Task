@@ -18,7 +18,7 @@ npm install
 Create a .env file in the root directory and add your News API key:
 makefile
 Copy code
-REACT_APP_NEWS_API_KEY=your_api_key_here
+REACT_APP_NEWS_API_KEY=api_key
 Usage
 Run the application:
 sql
